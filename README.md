@@ -8,23 +8,19 @@
 ## 使用前说明
 **程序是闭源的，而且目前并不打算开源**。下图是VirusTotal的扫描结果，**请谨慎使用**。
 
-https://www.virustotal.com/gui/file/e0237b73804f84f01bac8d806f72d0a4bc3f0e2d48114dfe6e6a37f22e88aeb7/detection
+https://www.virustotal.com/gui/file/28f70050a8b2c70e8d34486ee266c2ac11999cc491cc562bf5fbc76a79c542b5/detection
 
 ![](./image/virustotal_scanresult.png)
 
 程序Hash信息如下:
 ``` bash
 $ sha256sum kunlun_gui.exe
-e0237b73804f84f01bac8d806f72d0a4bc3f0e2d48114dfe6e6a37f22e88aeb7  kunlun_gui.exe
+28f70050a8b2c70e8d34486ee266c2ac11999cc491cc562bf5fbc76a79c542b5  kunlun_gui.exe
 ```
 
 ## 使用说明
-请先按照 https://github.com/LoRexxar/Kunlun-M 的说明，进行初始化的设置和扫描。
-
-📢 同时，使用程序之前需要至少**运行一次** `python kunlun.py console` ；不然Rules数据库没初始化，程序会闪退。
-
 在 https://github.com/mark0smith/Kunlun-M-GUI/releases 下载 `kunlun_gui.exe`
-，将其放在`kunlun.py`文件所在的文件夹中。
+，将其放在<del>`kunlun.py`文件所在的<del>文件夹中运行即可。
 
 点击程序图标即可运行，程序运行缓慢，请稍后。
 
@@ -35,4 +31,6 @@ e0237b73804f84f01bac8d806f72d0a4bc3f0e2d48114dfe6e6a37f22e88aeb7  kunlun_gui.exe
 
 
 ## 使用演示
+
+![](./image/demo3.gif)
 ![](./image/demo.gif)
