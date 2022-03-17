@@ -43,3 +43,11 @@ sha256sum kunlun_gui.exe
 428fc5e1aac187ea8946d4dac0f583c60c6393dbd85ed2141330beccdcbcfb81  kunlun_gui.exe
 ```
 - 适配了 KunLun-M 的 2.6.3 版本，只是适配了。🤣
+
+
+## 2022-03-18 00:11:26
+``` bash
+sha256sum kunlun_gui.exe
+aef356bde4aef21e64d656b27564828118327bc603049647c958ae95af934618  kunlun_gui.exe
+```
+- 适配了 KunLun-M 的 2.6.4.2 版本，只是适配了。🤣

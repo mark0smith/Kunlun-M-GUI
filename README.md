@@ -8,14 +8,14 @@
 ## 使用前说明
 **程序是闭源的，而且目前并不打算开源**。下图是VirusTotal的扫描结果，**请谨慎使用**。
 
-https://www.virustotal.com/gui/file/428fc5e1aac187ea8946d4dac0f583c60c6393dbd85ed2141330beccdcbcfb81/detection
+https://www.virustotal.com/gui/file/aef356bde4aef21e64d656b27564828118327bc603049647c958ae95af934618/detection
 
 ![](./image/virustotal_scanresult.png)
 
 程序Hash信息如下:
 ``` bash
 $ sha256sum kunlun_gui.exe
-428fc5e1aac187ea8946d4dac0f583c60c6393dbd85ed2141330beccdcbcfb81  kunlun_gui.exe
+aef356bde4aef21e64d656b27564828118327bc603049647c958ae95af934618  kunlun_gui.exe
 ```
 
 ## 使用说明
